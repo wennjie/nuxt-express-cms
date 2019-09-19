@@ -1,6 +1,6 @@
 # BYTEBORDER_WEBCMS
 
-> BYTEBORDEER_WEBCMS
+> My ace Nuxt.js project
 
 ## Build Setup
 

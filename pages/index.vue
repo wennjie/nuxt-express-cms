@@ -6,7 +6,7 @@
         BYTEBORDER_WEBCMS
       </h1>
       <h2 class="subtitle">
-        BYTEBORDEER_WEBCMS
+        My ace Nuxt.js project
       </h2>
       <div class="links">
         <a
